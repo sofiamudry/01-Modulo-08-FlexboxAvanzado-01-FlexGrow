@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    height: 200px;
+    border: 1px solid #eee;
+}
+
+/* ejercicio 01 */
+
+/* .box {
+    background-color: orchid;
+    width: 250px;
+}
+
+.diferent {
+    flex-grow: 1;
+    background-color: paleturquoise;
+} */
+
+/* ejercicio 02 */
+
+/* .box-01 {
+    width: 200px;
+    background-color: orchid;
+}
+
+.box-02 {
+    flex-grow: 1;
+    background-color: peachpuff;
+} */
+
+/* ejercicio 03 */
+
+/* .box {
+    flex-grow: 1;
+    background-color: orchid;
+} */
+
+/* ejercicio 04 */
+
+/* .box {
+    background-color: orchid;
+    flex-grow: 2;
+}
+
+.box-02 {
+    flex-grow: 1;
+    background-color: paleturquoise;
+} */
+
+/* ejercicio 05 */
+
+.box {
+    flex-grow: 1;
+    background-color: olivedrab;
+}
+
+.box-02 {
+    flex-grow: 3;
+    background-color: orchid;
+}
